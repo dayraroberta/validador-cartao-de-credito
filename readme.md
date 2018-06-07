@@ -14,4 +14,4 @@
 
 8. É feita a divisão do valor total da soma por 10, se o restante for equivalente a 0, o cartão é verdadeiro. Caso contrário, é um cartão inválido.
 
-![Fluxograma](C:\Users\Larry\Desktop\verificador-cartao-de-credito\fluxograma)
+![Fluxograma](https://imgur.com/a/9SE1QxI)
