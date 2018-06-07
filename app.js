@@ -7,3 +7,5 @@ for (var i = 0; i < 1; i = i){
     alert('Insira somente números.');
   }
 }
+var numberValidation = cardNumber.split('');
+numberValidation = numberValidation.reverse();
