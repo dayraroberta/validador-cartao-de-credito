@@ -13,3 +13,5 @@
 7. O resultado da multiplicação é somado com os números que não foram selecionados.
 
 8. É feita a divisão do valor total da soma por 10, se o restante for equivalente a 0, o cartão é verdadeiro. Caso contrário, é um cartão inválido.
+
+![Fluxograma](C:\Users\Larry\Desktop\verificador-cartao-de-credito\fluxograma)
