@@ -1,0 +1,30 @@
+body{
+  background-image: url(https://media3.giphy.com/media/cpIvoQSU8vC9O/giphy.gif);
+  background-repeat: repeat-x-y;
+}
+h1{
+  font-family: sans-serif;
+  color: white;
+  text-align: center;
+}
+h2{
+  font-family: sans-serif;
+  color: white;
+  text-align: center
+}
+#valid{
+  font-family: sans-serif;
+  color: #42f456;
+  text-align: center;
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: white;
+  font-size: 30px;
+}
+#notValid{
+ font-family: sans-serif;
+ color: #f44141;
+ text-align: center;
+ -webkit-text-stroke-width: 0.5px;
+ -webkit-text-stroke-color: white;
+ font-size: 30px;
+}
